@@ -1,0 +1,35 @@
+#radius{
+    align-items: center;
+    color:red;
+    
+
+}
+#area{
+    background-color:white;
+    text-align:center;
+    color:black;
+    font-size:35px;
+    
+}
+label{
+    color:blue;
+
+
+}
+#circum{
+    background-color:white;
+    text-align:center;
+    color:black;
+    font-size:35px;
+
+}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+  }
